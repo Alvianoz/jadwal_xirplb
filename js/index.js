@@ -15,7 +15,3 @@ document.addEventListener("click", function (e) {
     navbarNav.classList.remove("active");
   }
 });
-
-document.getElementById("myButton").onclick = function () {
-    location.href = 'jadwalb.html';
-};
